@@ -1,0 +1,4 @@
+1.需要先进入admin模式，在（选择（atm or admin）：admin123），创建新用户。
+2.创建的新用户初始信息{'card_number': '5Z0Y6D4L8L6U', 'user': 'alex', 'password': '123', 'Credit_line': 10000, 'balance': 0, 'repayment': 0}
+Credit_line是信用额度，balance是余额，repayment是需还款额度。
+3.调用模块都在core文件夹下！
