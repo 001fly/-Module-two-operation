@@ -1,0 +1,721 @@
+C:\Users\admin\AppData\Local\Programs\Python\Python36-32\python.exe E:/python-scripts/day5/ss/system_main.py
+
+        ---------- Welcome to subject system ----------
+
+                1.  Stuent view
+                2.  Teacher view
+                3.  Manager view
+                4.  Exit
+
+Please input your choice: 3
+Please input manager username: zff
+Please input manager password: 333333
+Welcome manager!
+
+        ---------- Welcome to manager view ----------
+
+                1.  Schools management
+                2.  Teachers management
+                3.  Students management
+                4.  Courses management
+                5.  return
+
+Please input your choice: 1
+
+            ---------- Welcome to schools management ----------
+
+                    1.  create school
+                    2.  create class
+                    3.  look over schools info
+                    4.  look over classes info
+                    5.  return
+
+Please input your choice: 1
+School name: oldboy beijing
+School address: beijing
+*********Create school succeed!********
+school: oldboy beijing
+address: beijing
+uid: b709a944d1d177196ab8dd787b79ad2e
+
+            ---------- Welcome to schools management ----------
+
+                    1.  create school
+                    2.  create class
+                    3.  look over schools info
+                    4.  look over classes info
+                    5.  return
+
+Please input your choice: 1
+School name: oldboy shanghai
+School address: shanghai
+*********Create school succeed!********
+school: oldboy shanghai
+address: shanghai
+uid: 909f53c5a6af55cdcc2a105ae472ce45
+
+            ---------- Welcome to schools management ----------
+
+                    1.  create school
+                    2.  create class
+                    3.  look over schools info
+                    4.  look over classes info
+                    5.  return
+
+Please input your choice: 2
+Class name: python1
+Responsibility teacher: Alex
+Study course: python
+********Create classes succeed!********
+name: python1
+teacher: Alex
+course: python
+uid: c7ef82ec5b2408dd0a6693d8b8d6d008
+
+            ---------- Welcome to schools management ----------
+
+                    1.  create school
+                    2.  create class
+                    3.  look over schools info
+                    4.  look over classes info
+                    5.  return
+
+Please input your choice: 2
+Class name: linux1
+Responsibility teacher: Oldboy
+Study course: linux
+********Create classes succeed!********
+name: linux1
+teacher: Oldboy
+course: linux
+uid: bab463dab8b4ea7b2bf9bf0ac8ba45f1
+
+            ---------- Welcome to schools management ----------
+
+                    1.  create school
+                    2.  create class
+                    3.  look over schools info
+                    4.  look over classes info
+                    5.  return
+
+Please input your choice: 2
+Class name: go1
+Responsibility teacher: ???
+Study course: go
+********Create classes succeed!********
+name: go1
+teacher: ???
+course: go
+uid: 414c2077d87f3a389ec0ace005797b88
+
+            ---------- Welcome to schools management ----------
+
+                    1.  create school
+                    2.  create class
+                    3.  look over schools info
+                    4.  look over classes info
+                    5.  return
+
+Please input your choice: 3
+school: oldboy shanghai
+address: shanghai
+uid: 909f53c5a6af55cdcc2a105ae472ce45
+school: oldboy beijing
+address: beijing
+uid: b709a944d1d177196ab8dd787b79ad2e
+
+            ---------- Welcome to schools management ----------
+
+                    1.  create school
+                    2.  create class
+                    3.  look over schools info
+                    4.  look over classes info
+                    5.  return
+
+Please input your choice: 4
+name: go1
+teacher: ???
+course: go
+uid: 414c2077d87f3a389ec0ace005797b88
+name: linux1
+teacher: Oldboy
+course: linux
+uid: bab463dab8b4ea7b2bf9bf0ac8ba45f1
+name: python1
+teacher: Alex
+course: python
+uid: c7ef82ec5b2408dd0a6693d8b8d6d008
+
+            ---------- Welcome to schools management ----------
+
+                    1.  create school
+                    2.  create class
+                    3.  look over schools info
+                    4.  look over classes info
+                    5.  return
+
+Please input your choice: 5
+
+        ---------- Welcome to manager view ----------
+
+                1.  Schools management
+                2.  Teachers management
+                3.  Students management
+                4.  Courses management
+                5.  return
+
+Please input your choice: 2
+
+            ---------- Welcome to teachers management ----------
+
+                    1.  Create teacher
+                    2.  Look over teacher info
+                    3.  return
+
+Please input your choice: 1
+Teacher name: Alex
+Teacher salary: 99999
+School name: oldboy beijing
+********Create teacher succeed!********
+name: Alex
+salary: 99999
+school: oldboy beijing
+uid: 0ed0d2949f119b7ee191603b7ee85420
+
+            ---------- Welcome to teachers management ----------
+
+                    1.  Create teacher
+                    2.  Look over teacher info
+                    3.  return
+
+Please input your choice: 1
+Teacher name: Oldboy
+Teacher salary: 100000
+School name: oldboy beijing
+********Create teacher succeed!********
+name: Oldboy
+salary: 100000
+school: oldboy beijing
+uid: 75a472294b47caf2e91d01ca59050038
+
+            ---------- Welcome to teachers management ----------
+
+                    1.  Create teacher
+                    2.  Look over teacher info
+                    3.  return
+
+Please input your choice: 1
+Teacher name: ???
+Teacher salary: 88888
+School name: oldboy shanghai
+********Create teacher succeed!********
+name: ???
+salary: 88888
+school: oldboy shanghai
+uid: 6d83e7324be794d2b054a31eeaf43fef
+
+            ---------- Welcome to teachers management ----------
+
+                    1.  Create teacher
+                    2.  Look over teacher info
+                    3.  return
+
+Please input your choice: 2
+name: Alex
+salary: 99999
+school: oldboy beijing
+uid: 0ed0d2949f119b7ee191603b7ee85420
+name: ???
+salary: 88888
+school: oldboy shanghai
+uid: 6d83e7324be794d2b054a31eeaf43fef
+name: Oldboy
+salary: 100000
+school: oldboy beijing
+uid: 75a472294b47caf2e91d01ca59050038
+
+            ---------- Welcome to teachers management ----------
+
+                    1.  Create teacher
+                    2.  Look over teacher info
+                    3.  return
+
+Please input your choice: 3
+
+        ---------- Welcome to manager view ----------
+
+                1.  Schools management
+                2.  Teachers management
+                3.  Students management
+                4.  Courses management
+                5.  return
+
+Please input your choice: 3
+
+            ---------- Welcome to students management ----------
+
+                    1.  Create student
+                    2.  Get fees
+                    3.  Look over student info
+                    4.  return
+
+Please input your choice: 1
+Student name: fone
+Student sex: man
+School name: oldboy beijing
+Class: python1
+Did fone pay for tuition(Y|N): Y
+********Create student succeed!********
+name: fone
+sex: man
+school: oldboy beijing
+class: python1
+pay_fee: Y
+uid: 1a4017631414ca6a84dd630063fca107
+
+            ---------- Welcome to students management ----------
+
+                    1.  Create student
+                    2.  Get fees
+                    3.  Look over student info
+                    4.  return
+
+Please input your choice: 2
+Student name: fone
+School: oldboy beijing
+Class: python1
+fone don't have to pay tuition.
+
+            ---------- Welcome to students management ----------
+
+                    1.  Create student
+                    2.  Get fees
+                    3.  Look over student info
+                    4.  return
+
+Please input your choice: 3
+Student name: fone
+School: oldboy beijing
+Class: python1
+name: fone
+sex: man
+school: oldboy beijing
+class: python1
+pay_fee: Y
+uid: 1a4017631414ca6a84dd630063fca107
+
+            ---------- Welcome to students management ----------
+
+                    1.  Create student
+                    2.  Get fees
+                    3.  Look over student info
+                    4.  return
+
+Please input your choice: 4
+
+        ---------- Welcome to manager view ----------
+
+                1.  Schools management
+                2.  Teachers management
+                3.  Students management
+                4.  Courses management
+                5.  return
+
+Please input your choice: 4
+
+            ---------- Welcome to courses management ----------
+
+                    1.  Create course
+                    2.  Look over courses info
+                    3.  return
+
+Please input your choice: 1
+Course name: python
+Course period: 7 month
+Course price: 6999
+*********Create course succeed!********
+name: python
+period: 7month
+price: 6999
+uid: d12860f5c52c43d9103ca60e93545cac
+
+            ---------- Welcome to courses management ----------
+
+                    1.  Create course
+                    2.  Look over courses info
+                    3.  return
+
+Please input your choice: 1
+Course name: linux
+Course period: 6 month
+Course price: 5999
+*********Create course succeed!********
+name: linux
+period: 6 month
+price: 5999
+uid: 83106facb5acf21b647048ee8de504d5
+
+            ---------- Welcome to courses management ----------
+
+                    1.  Create course
+                    2.  Look over courses info
+                    3.  return
+
+Please input your choice: 1
+Course name: go
+Course period: 6 month
+Course price: 7999
+*********Create course succeed!********
+name: go
+period: 6 month
+price: 7999
+uid: 36859545666b5e824164feafa1e6b664
+
+            ---------- Welcome to courses management ----------
+
+                    1.  Create course
+                    2.  Look over courses info
+                    3.  return
+
+Please input your choice: 2
+name: go
+period: 6 month
+price: 7999
+uid: 36859545666b5e824164feafa1e6b664
+name: linux
+period: 6 month
+price: 5999
+uid: 83106facb5acf21b647048ee8de504d5
+name: python
+period: 7month
+price: 6999
+uid: d12860f5c52c43d9103ca60e93545cac
+
+            ---------- Welcome to courses management ----------
+
+                    1.  Create course
+                    2.  Look over courses info
+                    3.  return
+
+Please input your choice: 3
+
+        ---------- Welcome to manager view ----------
+
+                1.  Schools management
+                2.  Teachers management
+                3.  Students management
+                4.  Courses management
+                5.  return
+
+Please input your choice: 5
+
+        ---------- Welcome to subject system ----------
+
+                1.  Stuent view
+                2.  Teacher view
+                3.  Manager view
+                4.  Exit
+
+Please input your choice: 1
+
+        ---------- Welcome to student view ----------
+
+                1.  enroll
+                2.  pay fee
+                3.  class record
+                4.  student grade
+                5.  return
+
+Please input choice: 1
+Welcome to stuent enroll system!
+Name: aa
+Sex: man
+School: oldboy beijing
+Classes: linux1
+********Create student succeed!********
+name: aa
+sex: man
+school: oldboy beijing
+class: linux1
+pay_fee: N
+uid: 8dabe89aa41fcd4e5200460a1310c094
+
+        ---------- Welcome to student view ----------
+
+                1.  enroll
+                2.  pay fee
+                3.  class record
+                4.  student grade
+                5.  return
+
+Please input choice: 2
+Name: aa
+School: oldboy beijing
+Class: linux1
+Do you want to pay linux1 class fee(Y|N): Y
+Please call manager to get fee.
+Please input manager username: zff
+Please input manager password: 333333
+Welcome manager!
+**********aa pay fee succeed!**********
+
+        ---------- Welcome to student view ----------
+
+                1.  enroll
+                2.  pay fee
+                3.  class record
+                4.  student grade
+                5.  return
+
+Please input choice: 5
+
+        ---------- Welcome to subject system ----------
+
+                1.  Stuent view
+                2.  Teacher view
+                3.  Manager view
+                4.  Exit
+
+Please input your choice: 2
+
+        ---------- Welcome to teacher view ----------
+
+                1.  Create class record
+                2.  Create class grade
+                3.  Look over students class record
+                4.  Look over students grade
+                5.  Look over studnet info
+                6.  return
+
+Please input choice: 1
+School: oldboy beijing
+Class: python1
+fone class attend situation: good
+Attend times: 7
+******Create class_record succeed!*****
+name: fone
+sex: man
+school: oldboy beijing
+class: python1
+pay_fee: Y
+uid: 1a4017631414ca6a84dd630063fca107
+class_situation: good
+attend_times: 7
+
+
+
+        ---------- Welcome to teacher view ----------
+
+                1.  Create class record
+                2.  Create class grade
+                3.  Look over students class record
+                4.  Look over students grade
+                5.  Look over studnet info
+                6.  return
+
+Please input choice: 2
+School: oldboy beijing
+Class: python1
+fone grade: 90
+Attend times: 7
+******Create class_grade succeed!******
+name: fone
+sex: man
+school: oldboy beijing
+class: python1
+pay_fee: Y
+uid: 1a4017631414ca6a84dd630063fca107
+student_grade: 90
+attend_times: 7
+
+
+******Create class_grade succeed!******
+name: fone
+sex: man
+school: oldboy beijing
+class: python1
+pay_fee: Y
+uid: 1a4017631414ca6a84dd630063fca107
+student_grade: 90
+attend_times: 7
+
+
+
+        ---------- Welcome to teacher view ----------
+
+                1.  Create class record
+                2.  Create class grade
+                3.  Look over students class record
+                4.  Look over students grade
+                5.  Look over studnet info
+                6.  return
+
+Please input choice: 3
+School: oldboy beijing
+Class: python1
+Student name: fone
+name: fone
+sex: man
+school: oldboy beijing
+class: python1
+pay_fee: Y
+uid: 1a4017631414ca6a84dd630063fca107
+class_situation: good
+attend_times: 7
+
+
+
+        ---------- Welcome to teacher view ----------
+
+                1.  Create class record
+                2.  Create class grade
+                3.  Look over students class record
+                4.  Look over students grade
+                5.  Look over studnet info
+                6.  return
+
+Please input choice: 4
+School: oldboy beijing
+Class: python1
+Student name: fone
+name: fone
+sex: man
+school: oldboy beijing
+class: python1
+pay_fee: Y
+uid: 1a4017631414ca6a84dd630063fca107
+student_grade: 90
+attend_times: 7
+
+
+name: fone
+sex: man
+school: oldboy beijing
+class: python1
+pay_fee: Y
+uid: 1a4017631414ca6a84dd630063fca107
+student_grade: 90
+attend_times: 7
+
+
+
+        ---------- Welcome to teacher view ----------
+
+                1.  Create class record
+                2.  Create class grade
+                3.  Look over students class record
+                4.  Look over students grade
+                5.  Look over studnet info
+                6.  return
+
+Please input choice: 5
+Student name: fone
+School: oldboy beijing
+Class: python1
+name: fone
+sex: man
+school: oldboy beijing
+class: python1
+pay_fee: Y
+uid: 1a4017631414ca6a84dd630063fca107
+student_grade: 90
+student_grade: 90
+class_situation: good
+attend_times: 7
+
+        ---------- Welcome to teacher view ----------
+
+                1.  Create class record
+                2.  Create class grade
+                3.  Look over students class record
+                4.  Look over students grade
+                5.  Look over studnet info
+                6.  return
+
+Please input choice: 6
+
+        ---------- Welcome to subject system ----------
+
+                1.  Stuent view
+                2.  Teacher view
+                3.  Manager view
+                4.  Exit
+
+Please input your choice: 1
+
+        ---------- Welcome to student view ----------
+
+                1.  enroll
+                2.  pay fee
+                3.  class record
+                4.  student grade
+                5.  return
+
+Please input choice: 3
+Name: fone
+School: oldboy beijing
+Class: python1
+name: fone
+sex: man
+school: oldboy beijing
+class: python1
+pay_fee: Y
+uid: 1a4017631414ca6a84dd630063fca107
+class_situation: good
+attend_times: 7
+
+
+
+        ---------- Welcome to student view ----------
+
+                1.  enroll
+                2.  pay fee
+                3.  class record
+                4.  student grade
+                5.  return
+
+Please input choice: 4
+Name: fone
+School: oldboy beijing
+Class: python1
+name: fone
+sex: man
+school: oldboy beijing
+class: python1
+pay_fee: Y
+uid: 1a4017631414ca6a84dd630063fca107
+student_grade: 90
+attend_times: 7
+
+
+name: fone
+sex: man
+school: oldboy beijing
+class: python1
+pay_fee: Y
+uid: 1a4017631414ca6a84dd630063fca107
+student_grade: 90
+attend_times: 7
+
+
+
+        ---------- Welcome to student view ----------
+
+                1.  enroll
+                2.  pay fee
+                3.  class record
+                4.  student grade
+                5.  return
+
+Please input choice: 5
+
+        ---------- Welcome to subject system ----------
+
+                1.  Stuent view
+                2.  Teacher view
+                3.  Manager view
+                4.  Exit
+
+Please input your choice: 4
+
+Process finished with exit code 0
